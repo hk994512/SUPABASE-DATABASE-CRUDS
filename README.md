@@ -1,4 +1,4 @@
-# practise_pro
+# SUPABASE-DATABASE-CRUDS
 
 A new Flutter project.
 
